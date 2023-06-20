@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/RestFulFeatutre_1.0.0.202306191633.jar" id="RestFulFeatutre" version="1.0.0.202306191633">
+   <feature url="features/RestFulFeatutre_1.0.1.jar" id="RestFulFeatutre" version="1.0.1">
       <category name="restSpring"/>
    </feature>
    <category-def name="restSpring" label="restSpring"/>
